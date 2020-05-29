@@ -60,6 +60,15 @@ The generated midi songs will be saved in Music_Genrated folder and to achieve t
 No need for training because in side **Generation.ipynb** file itself the selected music genre will be automatically processed and the desired music will be generated in the sequence of multiple midi file format which in turn must be converted to mp3 by the help of this  website https://audio.online-convert.com/convert/midi-to-mp3 and after that each mp3 sequence must be combined into a single file through this website https://audio-joiner.com/
 
 
+# Conclusion
+
+From both of the two algorithm we get couple of good midi music. So, its upto the user to determine by testing that which algorithm is best for the Music Genration.
+
+# Future Development
+
+So, the only thing left for this project is for the deployment part which can be done using Fast Api or webrtc where we can design an interface for the above where user can select a genre and after that user will get to hear his/her desired music genre.
+
+
 
 
 
