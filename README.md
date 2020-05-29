@@ -10,7 +10,7 @@ So, lets discuss below methods for running both the projects -
 
 1) LSTM-Music Generation :-
 
-Requirements- 
+## Requirements- 
 
 Required Packages:
 
